@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lending/static/css/main.a91aa05b.css",
+    "main.js": "/lending/static/js/main.c12f0c43.js",
+    "static/js/787.5a44b1e4.chunk.js": "/lending/static/js/787.5a44b1e4.chunk.js",
+    "static/media/image1.png": "/lending/static/media/image1.c473d9a40095ba6b3e90.png",
+    "static/media/image2.jpg": "/lending/static/media/image2.c5d36e34e017b252a574.jpg",
+    "static/media/1.jpg": "/lending/static/media/1.0466e8475283b441661a.jpg",
+    "static/media/2.jpg": "/lending/static/media/2.66142251e393a5e5e24d.jpg",
+    "static/media/3.jpg": "/lending/static/media/3.3c392acbd7cd775b4b80.jpg",
+    "static/media/image3.png": "/lending/static/media/image3.a6c6eeea8fc5a6afbdbc.png",
+    "static/media/Ellipse30.png": "/lending/static/media/Ellipse30.a2a296ab0bc8c4008f3b.png",
+    "static/media/Rectangle5.png": "/lending/static/media/Rectangle5.97f4359846edb30fd5dc.png",
+    "static/media/footerimg.png": "/lending/static/media/footerimg.0647db30f51f0ffe2d71.png",
+    "static/media/logo.png": "/lending/static/media/logo.3d024d87df046385cd25.png",
+    "index.html": "/lending/index.html",
+    "main.a91aa05b.css.map": "/lending/static/css/main.a91aa05b.css.map",
+    "main.c12f0c43.js.map": "/lending/static/js/main.c12f0c43.js.map",
+    "787.5a44b1e4.chunk.js.map": "/lending/static/js/787.5a44b1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a91aa05b.css",
+    "static/js/main.c12f0c43.js"
+  ]
+}
