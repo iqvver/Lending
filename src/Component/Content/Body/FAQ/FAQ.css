@@ -1,0 +1,56 @@
+.faqBox {
+    width: 1000px;
+    height: 400px;
+    display: flex;
+    margin: 0px auto;
+    margin-top: 70px;
+    /* заголовок */
+  }
+  .faqBoxText {
+    margin-top: 50px;
+  }
+.faqText {
+    width: 500px;
+    margin-top: 0px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 54px;
+    color: #0081C8;
+    text-align: left;
+    /* блок с большим текстом */
+  }
+.faqBoxForm {
+      text-align: left;
+      width: 500px;
+  } /* блок с формой */
+.faqBoxForm input {
+    display: block;
+    width: 400px;
+    height: calc(2.25rem + 2px);
+    border: none; 
+    border-bottom: 1px solid black;
+    /* стилизация инпутов */
+}
+.faqBoxForm input:focus {
+  outline: 0;
+}
+.faqBoxForm button {
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    background: #36BCBB;
+    margin: 20px;
+    color: #FFFFFF;
+    /* стилизация кнопки */
+  }
+.faqBoxForm button :hover { 
+    background: rgba(255,255,255,.2); 
+    /* анимация нажатия на кнопку */
+  }
+.faqFormText {
+      font-size: small;
+      margin-top: -20px;
+      /* текст под кнопкой */
+  }

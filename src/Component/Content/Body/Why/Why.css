@@ -1,0 +1,35 @@
+.whyBlock {
+    height: 700px;
+    display: flex;
+    margin: 0px auto;
+    margin-top: 20px;
+    background: #ebe8e8; 
+    /* стиль всего блока */ 
+  }
+  .whyText {
+    position: static;
+    width: 259px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 38px;
+    text-align: center;
+    color: #0081C8;
+    margin: 23px 70px;
+    /* стиль текста  */
+  }
+  .whyTextBlock {
+    text-align: left;
+  }
+  .whyRighBlock {
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-left: 50px;
+  }
+  .whyLeftBlock {
+    margin: 0 auto;
+    margin-top: 70px;
+  }

@@ -1,0 +1,33 @@
+.headerBlock {
+    width: 100%;
+    height: 50px;
+    position: relative;
+    /* весь блок хедер */
+}
+.logo {
+    width: 130px;
+    height: 55px;
+    margin-top: -6px;
+    margin-left: 10px;
+    float: left;
+    position: fixed;
+    left: 0px;
+    position:absolute;
+    /* стиль логотипа */
+}
+.buttonBlock button {
+    margin-left: 20px;
+    margin-top: 15px;	
+	box-sizing: border-box;
+	border: none;  
+	border-radius: 6px;
+    background: none;
+    /* стиль кнопок */
+}
+.buttonBlock button:hover {
+	text-decoration: underline;
+    /* стиль при наведении */
+}
+.buttonBlock button:active { 
+    background: rgb(122, 25, 250); 
+}

@@ -1,0 +1,53 @@
+.serv1 {
+  width: 900px;
+  height: 250px;
+  display: flex;
+  margin: 0px auto;
+  border-radius: 15px;
+  margin-top: 0px;
+  background: #FFFFFF;
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);  
+  /* стиль всего блока услуг */  
+}
+/* стиль картинок и текста в блоке */
+.servImg img {
+  width: 450px;
+  height: 250px;
+}
+
+.servText {
+  position: flex;
+  width: 70px;
+  height: 17px;
+  left: 0px;
+  top: 0px;
+}
+.leftBlock {
+  width: 450px;
+}
+.textBlock {
+position: flex;
+width: 450px;
+height: 90px;
+}
+.textBlock2 {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+line-height: 130%;
+color: #6D6D6D;
+}
+.buttonServBlock button {
+  width: 200px;
+  height: 30px;
+  border-radius: 30px;
+  background: #36BCBB;
+  margin: 20px;
+  color: #FFFFFF;
+  /* стиль кнопки */
+}
+.buttonServBlock button :hover { 
+  background: rgba(255,255,255,.2); 
+  /* анимация нажатия */
+}

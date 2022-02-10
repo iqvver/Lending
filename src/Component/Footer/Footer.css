@@ -1,0 +1,65 @@
+.footerBlock {
+    background-color: #3C3C3C;
+    height: 230px;
+    display: flex;
+    /* стиль всего блока футтер */
+}
+.footerBlock > div {
+    flex: 1;
+    /* разделение на 4 блока */
+  }
+.footerOutBlock {
+    background-color: #3C3C3C;
+    height: 50px;
+    /* стиль нихнего блока с тех информацией */
+}
+.footerOutBlock hr {
+    margin-top: -10px;
+    text-align: center;
+	background-color: #FFFFFF; 
+	height: 0.5px; 
+	border: none; 
+    /* полоса */
+}
+.footerOutBlock a {
+margin-left: 100px;
+margin-top: 10px;
+color: #AAAAAA;
+text-decoration: none;
+font-size: small;
+/* стилизация ссылок */
+}
+
+
+/* стилизация четырех блоков */
+  .footerBlock1 img {
+    width: 250px;
+    height: 120px;
+    margin: 30px;
+  }
+  .footerBlock2 {
+      margin: 50px;
+  }
+  .footerBlock2 a {
+      color: rgb(255, 255, 255);
+      text-decoration: none;
+  }
+  .footerBlock3 {
+      margin: 50px;
+      color: rgb(255, 255, 255);
+  }
+  .footerBlock4 {
+      margin: 50px;
+      color: rgb(255, 255, 255);
+  }
+  .footerBlock4Img {
+      margin-top: 15px;
+  }
+  .footerBlock4Img img {
+      margin-right: 10px;
+  }
+  .footerBlock4 a {
+      margin-top: 5px;;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }

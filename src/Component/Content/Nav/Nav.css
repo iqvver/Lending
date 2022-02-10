@@ -1,0 +1,30 @@
+.imgBlock {
+width: 100%;
+margin-bottom: 200px;
+}
+.imgBlock img {
+    width: 100%;
+    height: 450px;
+}
+.infoBlock{
+    margin-top: -300px;
+    color: white;
+}
+.imgBlock button {
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 200px;
+    height: 45px; 
+    color: white;
+    border: 2px solid #ffffff;
+	border-radius: 20px;
+    background: none;
+    /* стиль кнопки */
+}
+.imgBlock button:hover {
+	text-decoration: underline;
+    background: rgba(255,255,255,.2); 
+}
+.imgBlock button:active { 
+    background: white; 
+}
